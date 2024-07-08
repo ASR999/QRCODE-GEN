@@ -1,2 +1,2 @@
 # QRCODE-GEN
-QR code generator
+QR code generator prototype 1
